@@ -5,9 +5,7 @@ This script calculates the distance between two coordinates in a row using route
 There have been requests to identify which community districts (polygon) a point is located in.
 
 ## Code
-```# Routing Distance
-# 12/17/2019
-
+```
 # Set the working directory
 setwd("/PATH/TO/DIRECTORY")
 
